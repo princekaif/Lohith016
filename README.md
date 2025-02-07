@@ -15,7 +15,7 @@ I am a passionate software developer with a love for learning and exploring new 
 
 - **Project 1**: [Awesome Project](https://github.com/Lohith016/awesome-project)
   - Description: A project that does amazing things using cutting-edge technology.
-  - Technologies: React, Node.js, MongoDB
+  - Technologies: React, Node.js, MongoDB, Python
 
 - **Project 2**: [Cool App](https://github.com/Lohith016/cool-app)
   - Description: An innovative app that solves real-world problems.
@@ -27,13 +27,15 @@ I am a passionate software developer with a love for learning and exploring new 
 - **LinkedIn**: [Lohith's LinkedIn](https://www.linkedin.com/in/lohith016)
 - **Twitter**: [@lohith016](https://twitter.com/lohith016)
 
-### GitHub Stats
 
-![Lohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lohith016&show_icons=true&theme=radical)
 
 ### GitHub Streaks
 
 ![Lohith's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Lohith016&theme=radical)
+
+### GitHub Stats
+
+![Lohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lohith016&show_icons=true&theme=radical)
 
 ### Top Languages
 
