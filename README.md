@@ -31,6 +31,10 @@ I am a passionate software developer with a love for learning and exploring new 
 
 ![Lohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lohith016&show_icons=true&theme=radical)
 
+### GitHub Streaks
+
+![Lohith's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Lohith016&theme=radical)
+
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith016&layout=compact&theme=radical)
